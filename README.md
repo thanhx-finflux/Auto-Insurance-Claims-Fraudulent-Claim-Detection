@@ -1,2 +1,2 @@
-# Fraudulent-Claim-Detection-Auto-Insurance-Claims
+# Auto-Insurance-Claims-Fraudulent-Claim-Detection
 This project implementations a fraud detection system for auto insurance claims data using Logistic Regression and Random Forest.
